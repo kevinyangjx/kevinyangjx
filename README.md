@@ -17,8 +17,20 @@ I enjoy creating gameplay systems, and I'm also interested in rendering, physics
 ### Featured Projects
 
 - [AkuaEngine: Position Based Fluid Simulation](https://github.com/kevinyangjx/AkuaEngine)
+
+![Fluid Demo](demo/demo_fluid.gif)
+
 - [Docking Engaged (game demo)](https://kevinyangjx.itch.io/docking-engaged)
+
+![Docking Engaged Demo](demo/demo_game.gif)
+
 - [Boids](https://kevinyangjx.github.io/boids-webgl/)
+
+![Boids Demo](demo/demo_boids.gif)
+
+- Ray Marching
+
+![Raymarching Demo](demo/demo_raymarching.gif)
 
 Languages: C++, C\#, Python, Java
 
